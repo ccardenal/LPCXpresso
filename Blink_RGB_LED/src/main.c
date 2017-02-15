@@ -1,7 +1,7 @@
 /*
 ===============================================================================
  Name        : prova.c
- Author      : $(author)
+ Author      : ccardenal
  Version     :
  Copyright   : $(copyright)
  Description : main definition
