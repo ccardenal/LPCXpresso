@@ -31,7 +31,7 @@ int main(void) {
 	SysTick->VAL  = 0U;
 	SysTick->CTRL = (1U << 2) | (1U << 1) | 1U;
 
-	__enable_irq(); //Enabling irq
+	__enable_irq(); //Enabling interrupts
 
 
 	while (1) {
